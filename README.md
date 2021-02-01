@@ -2,7 +2,7 @@
 
 Deployed on AWS Amplify, can acess the app here: https://master.d2zahlfw7fcntw.amplifyapp.com/
 
-The lambda function is used via a REST API from AWS but is here for information.
+The lambda function is used via a REST API from AWS but is here for information: lambda.py .
 
 This API is called in App.jss .
 
@@ -27,6 +27,7 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 ## Tech Used
+
 React
 Node.js v6.10 and v8.10
 AWS
