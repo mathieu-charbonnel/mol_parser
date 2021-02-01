@@ -3,6 +3,8 @@
 Welcome to the Molecule Parser!
 Here You can parse molecules and obtain the exact number of each atom.
 
+The lambda function is used via an API (called in App.jss) but is here for information.
+
 ## Available Scripts
 
 In the project directory, run:
