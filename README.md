@@ -1,9 +1,9 @@
 # Molecule Parser
 
-Welcome to the Molecule Parser!
-Here You can parse molecules and obtain the exact count for each atom. \
-The goal of this repository was for me to learn how to deploy a basic application on AWS Amplify. \ 
-It contains the minimal objects required to do so and would probably be of some interest for a developer with with the same objective. \
+Welcome to the Molecule Parser! <br>
+Here You can parse molecules and obtain the exact count for each atom. <br>
+The goal of this repository was for me to learn how to deploy a basic application on AWS Amplify. <br>
+It contains the minimal objects required to do so and would probably be of some interest for a developer with with the same objective.
 
 # Deployment
 
