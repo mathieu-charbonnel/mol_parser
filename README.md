@@ -1,15 +1,14 @@
-# Deployment
-
-Deployed on AWS Amplify, can acess the app here: https://master.d2zahlfw7fcntw.amplifyapp.com/
-
-The lambda function is used via a REST API from AWS but is here for information: lambda.py .
-
-This API is called in App.jss .
-
 # my-parser
 
 Welcome to the Molecule Parser!
 Here You can parse molecules and obtain the exact count for each atom.
+The goal of this repository was for me to learn how to deploy a basic application on AWS Amplify. 
+It contains the minimal objects required to do so and would probably be of some interest for a developer with with the same objective.
+
+# Deployment
+
+The app can be deployed on AWS Amplify, using lambda.py as the lambda function (REST API).
+This API is called in App.jss .
 
 ## Available Scripts
 
